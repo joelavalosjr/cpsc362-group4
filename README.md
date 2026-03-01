@@ -27,4 +27,4 @@
 7. Mobile app with all website features
 
 ## Product Diagrams
-![Diagram 1](dgm1.png)
+![Diagram 1](dgm1.png "Diagram for General Use of Website")
